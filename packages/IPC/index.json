@@ -1,0 +1,14 @@
+{
+  "package": "IPC",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-4e414bae7b3e45cdafbe86342936b685",
+      "type": "milestone",
+      "timestamp": "2026-07-13T17:46:08Z",
+      "title": "Started the IPC package in the Cartenza knowledge repo to tr",
+      "tags": [],
+      "file_path": "entries/note-0001-4e414bae7b3e45cdafbe86342936b685.md"
+    }
+  ]
+}
